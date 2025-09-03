@@ -1,2 +1,4 @@
 labo 1, gestion de 
 version, Jérémy Ouellet
+
+collaboration avec SOB
